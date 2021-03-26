@@ -17,6 +17,10 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/admin', function () {
-    return view('admin.index');
+Route::get('/admin/index', function () {
+    return view('layout.admin.index');
+});
+
+Route::get('/login', function () {
+    return view('layout.login.index');
 });
