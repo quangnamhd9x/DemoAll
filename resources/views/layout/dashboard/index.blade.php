@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Sailor Bootstrap Template - Index</title>
+  <title>Home</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -43,22 +43,22 @@
   <header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo"><a href="index.html">Sailor</a></h1>
+      <h1 class="logo"><a href="index.html">Quang Nam iT</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav class="nav-menu d-none d-lg-block">
 
         <ul>
-          <li class="active"><a href="index.html">Home</a></li>
+          <li class="active"><a href="index.html">Trang chủ</a></li>
 
-          <li class="drop-down"><a href="#">About</a>
+          <li class="drop-down"><a href="#">Mục</a>
             <ul>
-              <li><a href="about.html">About Us</a></li>
-              <li><a href="team.html">Team</a></li>
-              <li><a href="testimonials.html">Testimonials</a></li>
+              <li><a href="about.html">Về chúng tôi</a></li>
+              <li><a href="team.html">Nhóm</a></li>
+              <li><a href="testimonials.html">Lời chứng thực</a></li>
 
-              <li class="drop-down"><a href="#">Deep Drop Down</a>
+              <li class="drop-down"><a href="#">Thông tin khác</a>
                 <ul>
                   <li><a href="#">Deep Drop Down 1</a></li>
                   <li><a href="#">Deep Drop Down 2</a></li>
@@ -70,17 +70,20 @@
             </ul>
           </li>
 
-          <li><a href="services.html">Services</a></li>
-          <li><a href="portfolio.html">Portfolio</a></li>
-          <li><a href="pricing.html">Pricing</a></li>
-          <li><a href="blog.html">Blog</a></li>
-          <li><a href="contact.html">Contact</a></li>
+          <li><a href="services.html">Dịch vụ</a></li>
+          <li><a href="portfolio.html">Đầu tư</a></li>
+          {{-- <li><a href="pricing.html">Định giá</a></li> --}}
+          <li><a href="blog.html">Diễn đàn</a></li>
+          <li><a href="blog.html">Bán hàng</a></li>
+          <li><a href="blog.html">MXH iT Việt</a></li>
+          <li><a href="contact.html">Liên hệ</a></li>
 
         </ul>
 
       </nav><!-- .nav-menu -->
 
-      <a href="index.html" class="get-started-btn ml-auto">Get Started</a>
+      <a href="index.html" class="get-started-btn ml-auto">Đăng nhập</a>
+
 
     </div>
   </header><!-- End Header -->
@@ -97,9 +100,9 @@
         <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg)">
           <div class="carousel-container">
             <div class="container">
-              <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Sailor</span></h2>
-              <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-              <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+              <h2 class="animate__animated animate__fadeInDown">Chào mừng đến với <span>Quang Nam iT</span></h2>
+              <p class="animate__animated animate__fadeInUp">Trang web xây dựng lên để tổng hợp các kiểu trang web phổ biến hiện nay như blog, bán hàng, mạng xã hội,...</p>
+              <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Xem thêm</a>
             </div>
           </div>
         </div>
